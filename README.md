@@ -6,4 +6,4 @@ A simple analog clock developed with HTML, CSS and JavaScript
 
 # Demo
 
-==https://codepen.io/techie-Teodor/pen/abYbPYO==
+``` https://codepen.io/techie-Teodor/pen/abYbPYO```
