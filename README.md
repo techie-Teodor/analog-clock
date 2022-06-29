@@ -2,8 +2,8 @@
 A simple analog clock developed with HTML, CSS and JavaScript
 
 # photo
-![alt text] (https://i.imgur.com/lOZ7H9H.png)
+![alt text](https://i.imgur.com/lOZ7H9H.png)
 
 # Demo
 
-<mark>https://codepen.io/techie-Teodor/pen/abYbPYO</mark>
+==https://codepen.io/techie-Teodor/pen/abYbPYO==
